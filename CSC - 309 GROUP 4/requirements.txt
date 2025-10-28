@@ -1,0 +1,6 @@
+Requirements - 
+
+Anaconda Software
+Jupyter Notebook
+The CSV file location into the code
+Internet Connection
