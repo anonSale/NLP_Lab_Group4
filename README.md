@@ -25,6 +25,7 @@ A Group Project on AI model visualisation using Jupyter Notebook
 20. AJIBEWA ERIC AYOMIDE - VUG/CSC/23/8885
 21. Onu VICTORIA Ijeoma - VUG/CSC/23/10424
 22. Terna Chidiebere Terfa - VUG/CSC/23/8939
+23. Yilkudi Joseph Gyemrit - VUG/CSC/23/9557 - Made Predicitve Modelling report
 
 
     Project Objectives
